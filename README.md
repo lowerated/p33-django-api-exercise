@@ -53,5 +53,6 @@
 
 ## How to Run project
 
+- cd prologs_project
 - python manage.py migrate
 - python manage.py runserver
