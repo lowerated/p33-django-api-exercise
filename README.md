@@ -1,4 +1,4 @@
-### Project Description and Completion Summary:
+# Project Description and Completion Summary:
 
 1. **Setup Django version 3.2.23**
    - **Status** : Completed
